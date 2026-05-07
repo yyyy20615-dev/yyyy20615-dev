@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="profile.jpg" width="180" style="border-radius:50%;" alt="Yao Li profile photo">
-</p>
 # Hi, I'm Yao Li 👋
 
 I am a Master's student in **AI and Digital Media** at **Hong Kong Baptist University**, with a background in **Textile Design** from **Central Saint Martins, University of the Arts London**.
